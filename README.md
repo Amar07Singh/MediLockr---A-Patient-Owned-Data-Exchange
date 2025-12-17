@@ -46,15 +46,3 @@ A patient-owned digital health locker enabling secure medical record storage, pr
 **Encryption:** AES-256-GCM, client-side key derivation, E2EE with rotating ephemeral keys  
 **File Processing:** PDF.js, Tesseract OCR, multi-format parsers  
 **Security:** Zero-knowledge architecture, deterministic hash indexing  
-
----
-
-## 📈 Impact
-
-| Metric | Result |
-|--------|--------|
-| **Repeated tests reduced** | 70% |
-| **Doctor record review time** | 8 minutes → <30 seconds |
-| **Record retrieval speed** | <300ms (hybrid search) |
-| **Patient data ownership** | 100% (vs. 0% in traditional systems) |
-| **Concurrent sessions handled** | 10,000+ during pilot |
